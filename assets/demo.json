@@ -1,0 +1,582 @@
+{
+    "success": true,
+    "message": "bill detail retrived",
+    "error_code": 200,
+    "data": {
+        "id": 19,
+        "citizen_poll_deadline": "2020-02-28T22:00:00.000Z",
+        "bill_opinions": [
+            {
+                "id": 3,
+                "bill_id": 19,
+                "user_id": 3,
+                "opinion": "asdf",
+                "media_type": "image/jpeg",
+                "media_url": "http://narad.meroshows.com/api/uploads/e7b8e89c08330029ced2f9551bf9f022download.jpg",
+                "createdAt": "2020-02-04T10:17:05.000Z",
+                "updatedAt": "2020-02-04T10:17:05.000Z",
+                "user_name": "Thapa Aacic",
+                "profile_pic": "http://narad.meroshows.com/api/uploads/profile/1579151113566.jpg",
+                "likes_count": 0,
+                "comments_count": 0,
+                "shares_count": 0
+            },
+            {
+                "id": 4,
+                "bill_id": 19,
+                "user_id": 1,
+                "opinion": "this is bill 19 opinion",
+                "media_type": "image/png",
+                "media_url": "http://narad.meroshows.com/api/uploads/582b960856b5c60d85557a80c0c46864403.png",
+                "createdAt": "2020-02-19T05:37:06.000Z",
+                "updatedAt": "2020-02-19T05:37:06.000Z",
+                "user_name": "aacic",
+                "profile_pic": "http://narad.meroshows.com/api/uploads/582b960856b5c60d85557a80c0c46864403.png",
+                "likes_count": 0,
+                "comments_count": 0,
+                "shares_count": 0
+            },
+            {
+                "id": 5,
+                "bill_id": 19,
+                "user_id": 1,
+                "opinion": "this is bill 19 opinion 2",
+                "media_type": "image/jpeg",
+                "media_url": "http://narad.meroshows.com/api/uploads/25526979a653ab73287af20bba31358aimages.jpg",
+                "createdAt": "2020-02-19T05:46:56.000Z",
+                "updatedAt": "2020-02-19T05:46:56.000Z",
+                "user_name": "aacic",
+                "profile_pic": "http://narad.meroshows.com/api/uploads/582b960856b5c60d85557a80c0c46864403.png",
+                "likes_count": 0,
+                "comments_count": 0,
+                "shares_count": 0
+            },
+            {
+                "id": 6,
+                "bill_id": 19,
+                "user_id": 1,
+                "opinion": "this is bill 19 opinion 3",
+                "media_type": "image/jpeg",
+                "media_url": "http://narad.meroshows.com/api/uploads/c42edc39798f2226ad170648a0ebd622seli.jpg",
+                "createdAt": "2020-02-19T05:56:38.000Z",
+                "updatedAt": "2020-02-19T05:56:38.000Z",
+                "user_name": "aacic",
+                "profile_pic": "http://narad.meroshows.com/api/uploads/582b960856b5c60d85557a80c0c46864403.png",
+                "likes_count": 0,
+                "comments_count": 0,
+                "shares_count": 0
+            },
+            {
+                "id": 8,
+                "bill_id": 19,
+                "user_id": 2,
+                "opinion": "",
+                "media_type": null,
+                "media_url": null,
+                "createdAt": "2020-03-11T11:02:47.000Z",
+                "updatedAt": "2020-03-11T11:02:47.000Z",
+                "user_name": "Vikas Lamichhane",
+                "profile_pic": "http://narad.meroshows.com/api/uploads/profile/1579148378682.jpg",
+                "likes_count": 0,
+                "comments_count": 0,
+                "shares_count": 0
+            },
+            {
+                "id": 9,
+                "bill_id": 19,
+                "user_id": 2,
+                "opinion": "",
+                "media_type": null,
+                "media_url": null,
+                "createdAt": "2020-03-11T11:03:35.000Z",
+                "updatedAt": "2020-03-11T11:03:35.000Z",
+                "user_name": "Vikas Lamichhane",
+                "profile_pic": "http://narad.meroshows.com/api/uploads/profile/1579148378682.jpg",
+                "likes_count": 0,
+                "comments_count": 0,
+                "shares_count": 0
+            },
+            {
+                "id": 10,
+                "bill_id": 19,
+                "user_id": 2,
+                "opinion": "Hhhhhhhhhh",
+                "media_type": null,
+                "media_url": null,
+                "createdAt": "2020-03-11T11:14:48.000Z",
+                "updatedAt": "2020-03-11T11:14:48.000Z",
+                "user_name": "Vikas Lamichhane",
+                "profile_pic": "http://narad.meroshows.com/api/uploads/profile/1579148378682.jpg",
+                "likes_count": 0,
+                "comments_count": 0,
+                "shares_count": 0
+            },
+            {
+                "id": 11,
+                "bill_id": 19,
+                "user_id": 2,
+                "opinion": "Juuahauauu",
+                "media_type": null,
+                "media_url": null,
+                "createdAt": "2020-03-11T11:16:20.000Z",
+                "updatedAt": "2020-03-11T11:16:20.000Z",
+                "user_name": "Vikas Lamichhane",
+                "profile_pic": "http://narad.meroshows.com/api/uploads/profile/1579148378682.jpg",
+                "likes_count": 0,
+                "comments_count": 0,
+                "shares_count": 0
+            },
+            {
+                "id": 12,
+                "bill_id": 19,
+                "user_id": 2,
+                "opinion": "opinion",
+                "media_type": null,
+                "media_url": null,
+                "createdAt": "2020-03-11T11:24:12.000Z",
+                "updatedAt": "2020-03-11T11:24:12.000Z",
+                "user_name": "Vikas Lamichhane",
+                "profile_pic": "http://narad.meroshows.com/api/uploads/profile/1579148378682.jpg",
+                "likes_count": 0,
+                "comments_count": 0,
+                "shares_count": 0
+            },
+            {
+                "id": 13,
+                "bill_id": 19,
+                "user_id": 2,
+                "opinion": "Hello ashish bro",
+                "media_type": null,
+                "media_url": null,
+                "createdAt": "2020-03-11T11:27:01.000Z",
+                "updatedAt": "2020-03-11T11:27:01.000Z",
+                "user_name": "Vikas Lamichhane",
+                "profile_pic": "http://narad.meroshows.com/api/uploads/profile/1579148378682.jpg",
+                "likes_count": 0,
+                "comments_count": 0,
+                "shares_count": 0
+            },
+            {
+                "id": 14,
+                "bill_id": 19,
+                "user_id": 2,
+                "opinion": "Hello ritesh",
+                "media_type": null,
+                "media_url": null,
+                "createdAt": "2020-03-11T11:29:40.000Z",
+                "updatedAt": "2020-03-11T11:29:40.000Z",
+                "user_name": "Vikas Lamichhane",
+                "profile_pic": "http://narad.meroshows.com/api/uploads/profile/1579148378682.jpg",
+                "likes_count": 0,
+                "comments_count": 0,
+                "shares_count": 0
+            },
+            {
+                "id": 15,
+                "bill_id": 19,
+                "user_id": 2,
+                "opinion": "Media",
+                "media_type": null,
+                "media_url": null,
+                "createdAt": "2020-03-11T11:40:22.000Z",
+                "updatedAt": "2020-03-11T11:40:22.000Z",
+                "user_name": "Vikas Lamichhane",
+                "profile_pic": "http://narad.meroshows.com/api/uploads/profile/1579148378682.jpg",
+                "likes_count": 0,
+                "comments_count": 0,
+                "shares_count": 0
+            },
+            {
+                "id": 16,
+                "bill_id": 19,
+                "user_id": 2,
+                "opinion": "Ma ashish ho",
+                "media_type": null,
+                "media_url": null,
+                "createdAt": "2020-03-11T11:49:20.000Z",
+                "updatedAt": "2020-03-11T11:49:20.000Z",
+                "user_name": "Vikas Lamichhane",
+                "profile_pic": "http://narad.meroshows.com/api/uploads/profile/1579148378682.jpg",
+                "likes_count": 0,
+                "comments_count": 0,
+                "shares_count": 0
+            },
+            {
+                "id": 17,
+                "bill_id": 19,
+                "user_id": 2,
+                "opinion": "Test",
+                "media_type": null,
+                "media_url": null,
+                "createdAt": "2020-03-11T12:12:32.000Z",
+                "updatedAt": "2020-03-11T12:12:32.000Z",
+                "user_name": "Vikas Lamichhane",
+                "profile_pic": "http://narad.meroshows.com/api/uploads/profile/1579148378682.jpg",
+                "likes_count": 0,
+                "comments_count": 0,
+                "shares_count": 0
+            },
+            {
+                "id": 18,
+                "bill_id": 19,
+                "user_id": 2,
+                "opinion": "Hello test",
+                "media_type": null,
+                "media_url": null,
+                "createdAt": "2020-03-11T12:14:40.000Z",
+                "updatedAt": "2020-03-11T12:14:40.000Z",
+                "user_name": "Vikas Lamichhane",
+                "profile_pic": "http://narad.meroshows.com/api/uploads/profile/1579148378682.jpg",
+                "likes_count": 0,
+                "comments_count": 0,
+                "shares_count": 0
+            },
+            {
+                "id": 19,
+                "bill_id": 19,
+                "user_id": 2,
+                "opinion": "Hello data",
+                "media_type": null,
+                "media_url": null,
+                "createdAt": "2020-03-11T12:28:20.000Z",
+                "updatedAt": "2020-03-11T12:28:20.000Z",
+                "user_name": "Vikas Lamichhane",
+                "profile_pic": "http://narad.meroshows.com/api/uploads/profile/1579148378682.jpg",
+                "likes_count": 0,
+                "comments_count": 0,
+                "shares_count": 0
+            }
+        ],
+        "bill_info_cards": {
+            "bill_info_text_cards": [
+                {
+                    "id": 24,
+                    "info_card_id": 44,
+                    "title": "Time-limit for resolution process",
+                    "description": "The Code states that the insolvency resolution process must be completed within 180 days, extendable by a period of up to 90 days.",
+                    "comments_count": 0,
+                    "likes_count": 0,
+                    "shares_count": 0
+                },
+                {
+                    "id": 23,
+                    "info_card_id": 43,
+                    "title": "Initiation of resolution process",
+                    "description": "As per the Code, the NCLT must determine the existence of default within 14 days of receiving a resolution application.",
+                    "comments_count": 0,
+                    "likes_count": 0,
+                    "shares_count": 0
+                }
+            ],
+            "bill_info_stat_cards": [
+                {
+                    "id": 14,
+                    "info_card_id": 48,
+                    "title": "Bankruptcy Statistics",
+                    "stat_number_1": "206789",
+                    "stat_text_1": "bankruptcies nationwide.",
+                    "stat_number_2": null,
+                    "stat_text_2": null,
+                    "comments_count": 0,
+                    "likes_count": 0,
+                    "shares_count": 0
+                },
+                {
+                    "id": 13,
+                    "info_card_id": 47,
+                    "title": "Insolvency Statistics",
+                    "stat_number_1": "115299",
+                    "stat_text_1": "who became insolvent",
+                    "stat_number_2": null,
+                    "stat_text_2": null,
+                    "comments_count": 0,
+                    "likes_count": 1,
+                    "shares_count": 0
+                }
+            ],
+            "bill_info_news_cards": [
+                {
+                    "id": 9,
+                    "info_card_id": 45,
+                    "title": "Bankruptcy Code will help weak firms: Nirmala Sitharaman",
+                    "description": "The Lok Sabha on Thursday passed amendments to the Insolvency and Bankruptcy Code, with Union Finance Minister Nirmala Sitharaman stating that the intention of the bill was to help struggling business survive and grow stronger.\r\n\r\n“The spirit behind the law is not to allow companies to die. Liquidation of a company is not the sole agenda of the Insolvency and Bankruptcy Code,” Ms. Sitharaman said.\r\n\r\nWith the passing of the bill, as many as seven sections of the Code stand amended. Under the Code, a financial creditor may file an application before the National Company Law Tribunal (NCLT) for initiating the insolvency resolution process. The NCLT must find the existence of default within 14 days. Thereafter, a Committee of Creditors (CoC), consisting of financial creditors, will be constituted for taking decisions regarding insolvency resolution. The CoC may either decide to restructure the debtor’s debt by preparing a resolution plan or liquidate the debtor’s assets.",
+                    "publisher_name": "THE HINDU",
+                    "image": "http://narad.meroshows.com/storage/images/bill-cards/KNFYqgAS5e7X343h1T8EMGs91Zf5PepoMouzJpZz.jpeg",
+                    "logo": "http://narad.meroshows.com/storage/images/bill-cards/news-logo/McvpEUsyRxVFHj6T3MimMJYefufp5OYdDrxAv7M2.jpeg",
+                    "comments_count": 0,
+                    "likes_count": 0,
+                    "shares_count": 0
+                }
+            ],
+            "bill_info_salient_points_cards": [
+                {
+                    "id": 25,
+                    "info_card_id": 49,
+                    "title": "Resolution of Insolvency:",
+                    "description": "The Insolvency and Bankruptcy Code, 2016 lays down the separate insolvency resolving procedures for companies, individuals as well as partnership companies. It is possible to initiate the procedure either by the creditors or the debtors. The code lays down a maximum time period for completing the insolvency resolution procedure for individuals and corporates. In the case of a company, the procedure must be fully completed in one hundred and eighty days, which can later be stretched by ninety days only when a large percentage of creditors permit or agree. On the other hand, in the case of start-ups (aside to the partnership companies), small organizations as well as other organizations (having less than Rs 1 crore worth of assets), the resolution procedure would be fulfilled within a period of ninety days of initiating the required that can be further stretched by as many as 45 day",
+                    "comments_count": 0,
+                    "likes_count": 1,
+                    "shares_count": 0
+                },
+                {
+                    "id": 27,
+                    "info_card_id": 51,
+                    "title": "Licensed Insolvency Professionals:",
+                    "description": "The management of insolvency procedure shall be done by licensed insolvency professionals. They would also exercise control on the debtor’s assets at the time of the insolvency procedure.",
+                    "comments_count": 0,
+                    "likes_count": 1,
+                    "shares_count": 0
+                },
+                {
+                    "id": 29,
+                    "info_card_id": 53,
+                    "title": "Procedure",
+                    "description": "An insolvency plea is given to the authority that adjudicates (in corporate debtor’s case it is NCLT) by operation or financial creditors or the corporate debtor. The plea can be accepted or rejected in a maximum time period of fourteen days. In case the plea gets acceptance then the tribunal will have to quickly appoint an IRP or Insolvency Resolution Professional for drafting a plan of resolution within a period of 180 days (that can be extended by ninety days). Following this, the court would initiate the process of resolving corporate insolvency. For that particular period, the company’s directors shall remain suspended whereas the promoters shall have no say in the company management. The Insolvency Resolution Professional can seek help of the management of the company for handling everyday operations. In case the CIRP is unable to revive the organization, then the process of liquidation shall be initiated",
+                    "comments_count": 0,
+                    "likes_count": 0,
+                    "shares_count": 0
+                },
+                {
+                    "id": 28,
+                    "info_card_id": 52,
+                    "title": "Insolvency and Bankruptcy Adjudicator",
+                    "description": "The Code has introduced two distinct tribunals for overseeing the procedure resolving insolvency, for companies and individuals. These are (i) the National Company Law Tribunal for organizations and Limited Liability Partnership companies; as well as (ii) the Debt Recovery Tribunal for overseeing insolvency resolution for individuals as well as partnership firms",
+                    "comments_count": 0,
+                    "likes_count": 0,
+                    "shares_count": 0
+                },
+                {
+                    "id": 26,
+                    "info_card_id": 50,
+                    "title": "Regulator of Insolvency",
+                    "description": "he Code lays down that the Insolvency and Bankruptcy Board of India shall oversee the proceedings related to insolvency in the nation and also regulate all the organizations that have been registered by the board. The Insolvency and Bankruptcy Board shall consist of ten members, which would also include the representatives of the Law and Finance ministries as well as the RBI (Reserve Bank of India).",
+                    "comments_count": 0,
+                    "likes_count": 1,
+                    "shares_count": 0
+                },
+                {
+                    "id": 30,
+                    "info_card_id": 54,
+                    "title": "Amendments",
+                    "description": "Certain individuals are prohibited from providing any plan of resolution in case there are any defaults. Hence, wilful defaulters, management or promoters of company in case there is any non-performing outstanding debt for more than a year, as well as directors who have been disqualified cannot submit any plan. Apart from this, the bill also places a restriction on the selling of a defaulter’s property to any such individuals at the time of liquidation.",
+                    "comments_count": 0,
+                    "likes_count": 1,
+                    "shares_count": 0
+                }
+            ],
+            "bill_info_background_basics_cards": [
+                {
+                    "id": 32,
+                    "info_card_id": 56,
+                    "title": "Code equire consideration?",
+                    "description": "The Bankruptcy Board (regulator) will regulate insolvency professional agencies (IPAs),",
+                    "comments_count": 0,
+                    "likes_count": 1,
+                    "shares_count": 0
+                },
+                {
+                    "id": 33,
+                    "info_card_id": 57,
+                    "title": "Understanding the Insolvency",
+                    "description": "The Insolvency and Bankruptcy Code, 2016 (‘Code’) reconceptualised the framework for\r\ninsolvency resolution in India.",
+                    "comments_count": 0,
+                    "likes_count": 0,
+                    "shares_count": 0
+                },
+                {
+                    "id": 31,
+                    "info_card_id": 55,
+                    "title": "All you need to know",
+                    "description": "The Insolvency and Bankruptcy Code, 2016 is listed for passage in Rajya Sabha today.",
+                    "comments_count": 0,
+                    "likes_count": 0,
+                    "shares_count": 0
+                }
+            ],
+            "bill_info_before_after_analysis_cards": [
+                {
+                    "id": 15,
+                    "info_card_id": 58,
+                    "title": "Insolvency vs. Bankruptcy",
+                    "stat_number_1": "40",
+                    "stat_text_1": "Insolvency",
+                    "stat_number_2": "45",
+                    "stat_text_2": "Bankruptancy",
+                    "comments_count": 0,
+                    "likes_count": 0,
+                    "shares_count": 0
+                },
+                {
+                    "id": 19,
+                    "info_card_id": 81,
+                    "title": "Rural access zone",
+                    "stat_number_1": "43",
+                    "stat_text_1": "by roas accident",
+                    "stat_number_2": "24",
+                    "stat_text_2": "by pass",
+                    "comments_count": 0,
+                    "likes_count": 0,
+                    "shares_count": 0
+                }
+            ]
+        },
+        "bill_detail": {
+            "id": 19,
+            "bill_id": 19,
+            "title": "Insolvency & Bankruptcy Code:113 (E1)",
+            "image": "http://narad.meroshows.com/storage/images/bill/19/Z4pxES44yIl5fomvOKiuPSL8HU38PLaPUxzvIM3A.jpeg",
+            "summary": "The Insolvency and Bankruptcy Code (Amendment) Bill, 2019 was introduced in Rajya Sabha by the Minister of Finance, Ms. Nirmala Sitharaman",
+            "background": "Under the Code, a financial creditor may file an application before the National Company Law Tribunal (NCLT) for initiating the insolvency resolution process.",
+            "original_bill": "The Code provides an order of priority for the distribution of assets in case of liquidation of the debtor.",
+            "bill_intro_date": "2019-07-24T00:00:00.000Z",
+            "createdAt": "2020-01-20T21:40:11.000Z",
+            "updatedAt": "2020-02-06T03:34:50.000Z"
+        },
+        "bill_type": {
+            "id": 3,
+            "name": "Constitutional Amendment Bills",
+            "createdAt": null,
+            "updatedAt": null
+        },
+        "bill_timelines": [
+            {
+                "id": 20,
+                "bill_id": 19,
+                "title": "President",
+                "summary": "Lok Sabha Speaker Om Birla has referred the Insolvency and Bankruptcy Code (Second Amendment) Bill, which seeks to streamline the corporate insolvency resolution process, to the standing committee on Finance of which former prime minister Manmohan Singh is a member\r\n\r\nRead more at:\r\nhttps://economictimes.indiatimes.com/news/economy/policy/lok-sabha-speaker-refers-bankruptcy-code-amendment-bill-to-standing-committee/articleshow/72952686.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst",
+                "mp_pic": "http://narad.meroshows.com/storage/images/bill/19/timeline/IwBMLVpo9m6LvjzqGr4hUcPsk4VcQiOGf6fG7wOB.jpeg",
+                "mp_name": null,
+                "image": "http://narad.meroshows.com/storage/images/bill/19/timeline/lYaQsZBtVn5sUwbZhFDznglDbnNnpyMLLQ038HmL.jpeg",
+                "voting_enabled": "no",
+                "status": "no",
+                "order": 0,
+                "voting_end_date": "2020-01-21T00:00:00.000Z",
+                "pass_fail": "pass",
+                "total_mp_voters": null,
+                "favour_voters": null,
+                "against_voters": null,
+                "timeline_house": 3,
+                "createdAt": "2020-01-21T02:42:50.000Z",
+                "updatedAt": "2020-01-21T05:19:06.000Z",
+                "timeline_intro_date": "2020-01-21T00:00:00.000Z"
+            },
+            {
+                "id": 19,
+                "bill_id": 19,
+                "title": "Lok Sabha",
+                "summary": "brought into effect from 2020 to protect the Corporate Debtor and its assets from liabilities for offences committed prior to the commencement of Corporate Insolvency Resolution Process (CIRP), the President of India has on 28th of December 2019 promulgated an Ordinance – Insolvency and Bankruptcy (Amendment) Ordinance, 2019.",
+                "mp_pic": "http://narad.meroshows.com/storage/images/bill/19/timeline/LvQlKWWF5nxX52QPtXMebGQIu0XqTt3Ps73FTOS2.jpeg",
+                "mp_name": "Nirmala",
+                "image": "http://narad.meroshows.com/storage/images/bill/19/timeline/Fy0sdXZfi1YlTQMIkJaP2ZvFzqeffa2ZiUW3t8yH.jpeg",
+                "voting_enabled": "no",
+                "status": "no",
+                "order": 0,
+                "voting_end_date": "2020-01-21T00:00:00.000Z",
+                "pass_fail": "pass",
+                "total_mp_voters": null,
+                "favour_voters": null,
+                "against_voters": null,
+                "timeline_house": 1,
+                "createdAt": "2020-01-21T02:41:47.000Z",
+                "updatedAt": "2020-01-21T05:15:51.000Z",
+                "timeline_intro_date": "2020-01-21T00:00:00.000Z"
+            },
+            {
+                "id": 16,
+                "bill_id": 19,
+                "title": "Rajya Sabha",
+                "summary": "The Bill was introduced to amend the earlier law to provide a time-bound process for resolving insolvency in companies as well as individuals. It was introduced in Rajya Sabha by the Minister of Finance, Nirmala Sitharaman on July 24th.",
+                "mp_pic": "http://narad.meroshows.com/storage/images/bill/19/timeline/rOMJSk1o05GtkYvb3JiFSeJgqpWL0qvZkx4lrP0W.jpeg",
+                "mp_name": "Minister of Finance, Ms. Nirmala Sitharaman,",
+                "image": "http://narad.meroshows.com/storage/images/bill/19/timeline/rOMJSk1o05GtkYvb3JiFSeJgqpWL0qvZkx4lrP0W.jpeg",
+                "voting_enabled": "yes",
+                "status": "yes",
+                "order": 0,
+                "voting_end_date": "2020-01-21T00:00:00.000Z",
+                "pass_fail": "pass",
+                "total_mp_voters": 120,
+                "favour_voters": 98,
+                "against_voters": 22,
+                "timeline_house": 2,
+                "createdAt": "2020-01-20T21:40:11.000Z",
+                "updatedAt": "2020-01-21T05:15:29.000Z",
+                "timeline_intro_date": "2020-01-21T00:00:00.000Z"
+            }
+        ],
+        "order": [
+            {
+                "name": "bill_detail",
+                "order": 1
+            },
+            {
+                "name": "bill_timelines",
+                "order": 2
+            },
+            {
+                "name": "bill_info_text_cards",
+                "order": 3
+            },
+            {
+                "name": "bill_info_stat_cards",
+                "order": 4
+            },
+            {
+                "name": "bill_info_salient_cards",
+                "order": 5
+            },
+            {
+                "name": "bill_info_background_basics_cards",
+                "order": 6
+            },
+            {
+                "name": "bill_info_news_cards",
+                "order": 7
+            },
+            {
+                "name": "bill_info_before_after_analysis_cards",
+                "order": 8
+            },
+            {
+                "name": "bill_citizen_polls",
+                "order": 9
+            },
+            {
+                "name": "bill_opinions",
+                "order": 10
+            }
+        ],
+        "opinion_count": 16,
+        "citizen_polls": {
+            "citizen_poll_count": 0,
+            "for_vote_count": 0,
+            "user_vote_status": false,
+            "comments_count": 0,
+            "likes_count": 0,
+            "shares_count": 0,
+            "timelines": [
+                {
+                    "id": 16,
+                    "bill_id": 19,
+                    "title": "Rajya Sabha",
+                    "summary": "The Bill was introduced to amend the earlier law to provide a time-bound process for resolving insolvency in companies as well as individuals. It was introduced in Rajya Sabha by the Minister of Finance, Nirmala Sitharaman on July 24th.",
+                    "mp_pic": "http://narad.meroshows.com/storage/images/bill/19/timeline/rOMJSk1o05GtkYvb3JiFSeJgqpWL0qvZkx4lrP0W.jpeg",
+                    "mp_name": "Minister of Finance, Ms. Nirmala Sitharaman,",
+                    "image": "http://narad.meroshows.com/storage/images/bill/19/timeline/rOMJSk1o05GtkYvb3JiFSeJgqpWL0qvZkx4lrP0W.jpeg",
+                    "date_time": "2020-01-21T00:00:00.000Z",
+                    "voting_enabled": "yes",
+                    "status": "yes",
+                    "voting_end_date": "2020-01-21T00:00:00.000Z",
+                    "pass_fail": "pass",
+                    "total_mp_voters": 120,
+                    "favour_voters": 98,
+                    "against_voters": 22,
+                    "timeline_house": 2,
+                    "likes_count": 0,
+                    "shares_count": 0,
+                    "comments_count": 0
+                }
+            ]
+        }
+    }
+}
+  Response headers

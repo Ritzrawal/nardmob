@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "576192159637",
+    "firebase_url": "https://naradmuni-df299.firebaseio.com",
+    "project_id": "naradmuni-df299",
+    "storage_bucket": "naradmuni-df299.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576192159637:android:a6fa7d2975c5314b78609c",
+        "android_client_info": {
+          "package_name": "com.naradmuni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576192159637-6olr706gqgc4huebogerioci0sjg8v0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.naradmuni",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "576192159637-v35ep4jubg9ltib4pp0b7u045hvj52bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5D9N5nRhpSHFAYy831JzDv8quN6aZako"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576192159637-v35ep4jubg9ltib4pp0b7u045hvj52bi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "576192159637-addrvcmjtad1ai5dfubp6c5h9ac5r09m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.naradmuni"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

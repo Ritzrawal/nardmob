@@ -1,0 +1,195 @@
+{
+    "success": true,
+    "message": "bill detail retrived",
+    "error_code": 200,
+    "data": {
+        "id": 42,
+        "citizen_poll_deadline": "2020-03-28T12:00:00.000Z",
+        "bill_opinions": [
+            {
+                "id": 25,
+                "bill_id": 42,
+                "user_id": 36,
+                "opinion": "Hello",
+                "media_type": null,
+                "media_url": null,
+                "createdAt": "2020-03-13T06:48:57.000Z",
+                "updatedAt": "2020-03-13T06:48:57.000Z",
+                "user_name": "hello",
+                "profile_pic": null,
+                "likes_count": 0,
+                "comments_count": 0,
+                "shares_count": 0
+            },
+            {
+                "id": 26,
+                "bill_id": 42,
+                "user_id": 36,
+                "opinion": "Hello Nepal data",
+                "media_type": null,
+                "media_url": null,
+                "createdAt": "2020-03-13T06:50:48.000Z",
+                "updatedAt": "2020-03-13T06:50:48.000Z",
+                "user_name": "hello",
+                "profile_pic": null,
+                "likes_count": 0,
+                "comments_count": 0,
+                "shares_count": 0
+            },
+            {
+                "id": 27,
+                "bill_id": 42,
+                "user_id": 36,
+                "opinion": "Heeee",
+                "media_type": null,
+                "media_url": null,
+                "createdAt": "2020-03-13T06:51:55.000Z",
+                "updatedAt": "2020-03-13T06:51:55.000Z",
+                "user_name": "hello",
+                "profile_pic": null,
+                "likes_count": 0,
+                "comments_count": 0,
+                "shares_count": 0
+            },
+            {
+                "id": 28,
+                "bill_id": 42,
+                "user_id": 36,
+                "opinion": "Hello data",
+                "media_type": null,
+                "media_url": null,
+                "createdAt": "2020-03-13T07:01:04.000Z",
+                "updatedAt": "2020-03-13T07:01:04.000Z",
+                "user_name": "hello",
+                "profile_pic": null,
+                "likes_count": 0,
+                "comments_count": 0,
+                "shares_count": 0
+            }
+        ],
+        "bill_info_cards": {
+            "bill_info_text_cards": [],
+            "bill_info_stat_cards": [],
+            "bill_info_news_cards": [],
+            "bill_info_salient_points_cards": [],
+            "bill_info_background_basics_cards": [],
+            "bill_info_before_after_analysis_cards": []
+        },
+        "bill_detail": {
+            "id": 42,
+            "bill_id": 42,
+            "title": "this is bill introduced by aacic thapa",
+            "image": "http://narad.meroshows.com/storage/images/bill/42/diNM0RBbTTT9AfhgOvxaLhjz4TYyCzQJvTD0nVIK.png",
+            "summary": null,
+            "background": null,
+            "original_bill": null,
+            "bill_intro_date": "2020-03-13T12:00:00.000Z",
+            "createdAt": "2020-03-12T01:21:52.000Z",
+            "updatedAt": "2020-03-12T01:21:52.000Z"
+        },
+        "bill_type": {
+            "id": 1,
+            "name": "Money Bills",
+            "createdAt": null,
+            "updatedAt": null
+        },
+        "bill_timelines": [
+            {
+                "id": 30,
+                "bill_id": 42,
+                "title": "lokshabha",
+                "summary": "c0540c3fce693291ef76ce85ae5a8c8d0504791efb31de417e5b56de6e4b1117",
+                "mp_pic": "http://narad.meroshows.com/storage/images/bill/42/timeline/M1OT5kOpGDdeLG1NPPhutxvRH465GDRguOWCbyCK.png",
+                "mp_name": "aacic thapa",
+                "image": "http://narad.meroshows.com/storage/images/bill/42/timeline/EYvDkf9wvd5pkBBEA2tAqOdJszLSKKYf2R5cwJdR.png",
+                "voting_enabled": "yes",
+                "status": "yes",
+                "order": 0,
+                "voting_end_date": "2020-03-13T12:00:00.000Z",
+                "pass_fail": "pass",
+                "total_mp_voters": 234444,
+                "favour_voters": 2121,
+                "against_voters": 232323,
+                "timeline_house": 1,
+                "createdAt": "2020-03-12T01:21:52.000Z",
+                "updatedAt": "2020-03-12T01:21:52.000Z",
+                "timeline_intro_date": "2020-03-13T12:00:00.000Z"
+            }
+        ],
+        "order": [
+            {
+                "name": "bill_detail",
+                "order": 1
+            },
+            {
+                "name": "bill_timelines",
+                "order": 2
+            },
+            {
+                "name": "bill_info_text_cards",
+                "order": 3
+            },
+            {
+                "name": "bill_info_stat_cards",
+                "order": 4
+            },
+            {
+                "name": "bill_info_salient_cards",
+                "order": 5
+            },
+            {
+                "name": "bill_info_background_basics_cards",
+                "order": 6
+            },
+            {
+                "name": "bill_info_news_cards",
+                "order": 7
+            },
+            {
+                "name": "bill_info_before_after_analysis_cards",
+                "order": 8
+            },
+            {
+                "name": "bill_citizen_polls",
+                "order": 9
+            },
+            {
+                "name": "bill_opinions",
+                "order": 10
+            }
+        ],
+        "opinion_count": 4,
+        "citizen_polls": {
+            "citizen_poll_count": 0,
+            "for_vote_count": 0,
+            "user_vote_status": false,
+            "comments_count": 0,
+            "likes_count": 0,
+            "shares_count": 0,
+            "timelines": [
+                {
+                    "id": 30,
+                    "bill_id": 42,
+                    "title": "lokshabha",
+                    "summary": "c0540c3fce693291ef76ce85ae5a8c8d0504791efb31de417e5b56de6e4b1117",
+                    "mp_pic": "http://narad.meroshows.com/storage/images/bill/42/timeline/M1OT5kOpGDdeLG1NPPhutxvRH465GDRguOWCbyCK.png",
+                    "mp_name": "aacic thapa",
+                    "image": "http://narad.meroshows.com/storage/images/bill/42/timeline/EYvDkf9wvd5pkBBEA2tAqOdJszLSKKYf2R5cwJdR.png",
+                    "date_time": "2020-03-13T12:00:00.000Z",
+                    "voting_enabled": "yes",
+                    "status": "yes",
+                    "voting_end_date": "2020-03-13T12:00:00.000Z",
+                    "pass_fail": "pass",
+                    "total_mp_voters": 234444,
+                    "favour_voters": 2121,
+                    "against_voters": 232323,
+                    "timeline_house": 1,
+                    "likes_count": 0,
+                    "shares_count": 0,
+                    "comments_count": 0
+                }
+            ]
+        }
+    }
+}
+  Response headers

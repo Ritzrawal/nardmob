@@ -1,0 +1,30 @@
+//USERS
+export const GET_USERS = 'GET_USERS';
+export const GET_USERS_BY_ID = 'GET_USER_BY_ID';
+export const FOllOW_USER_BY_ID = 'FOLLOW_USER_BY_ID';
+
+//BILLS
+export const GET_BILLS = 'GET_BILLS';
+export const GET_BILLSDETAIL_BY_ID = 'GET_BILLSDETAIL_BY_ID';
+export const POST_OPINION = 'POST_OPINION';
+export const POST_LIKE = 'POST_LIKE';
+export const POST_SHARE = 'POST_SHARE';
+export const POST_COMMENT = 'POST_COMMENT';
+export const POST_VOTE = 'POST_VOTE';
+export const POST_REPLY = 'POST_REPLY';
+export const GET_REPLIES_BY_COMMENTID = 'GET_REPLIES_BY_COMMENTID';
+export const GET_TIMELINES = 'GET_TIMELINES';
+export const GET_TIMELINES_BY_ID = 'GET_TIMELINES_BY_ID';
+export const GET_CARD_BY_ID = 'GET_CARD_BY_ID';
+export const GET_OPINION_BY_ID = 'GET_OPINION_BY_ID';
+export const GET_NEWSCARDS = 'GET_NEWSCARDS';
+
+//Activities
+export const GET_ACTIVITIES = 'GET_ACTIVITIES';
+
+//Notification
+export const GET_NOTIFICATIONS = 'GET_NOTIFICATIONS';
+
+//PROFILE SETTINGS
+export const UPDATE_MAIN_INFO = 'UPDATE_MAIN_INFO';
+export const UPDATE_SECURITY_INFO = 'UPDATE_SECURITY_INFO';
